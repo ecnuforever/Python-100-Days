@@ -72,7 +72,6 @@ make && make install
 ln -s /usr/local/python3.6/bin/python3 /usr/bin/python3
 ```
 
-
 #### MacOS环境
 
 MacOS也是自带了Python 2.x版本的，可以通过[Python的官方网站](https://www.python.org)提供的安装文件（pkg文件）安装3.x的版本。默认安装完成后，可以通过在终端执行python命令来启动2.x版本的Python解释器，可以通过执行python3命令来启动3.x版本的Python解释器，当然也可以通过重新设置软链接来修改启动Python解释器的命令。
